@@ -1,5 +1,12 @@
 
 <!-- ================= PROFILE HEADER ================= -->
+<p align="center">
+  <img
+    src="./assets/profile-banner.png"
+    alt="Kazi Sazzad Hossain - Full Stack Web Developer"
+    width="100%"
+  />
+</p>
 
 <h1 align="center">Hi 👋, I'm Kazi Sazzad Hossain</h1>
 
@@ -110,7 +117,7 @@ A creative studio discovery and booking platform.
 </p>
 
 <p>
-  📧 Email: <a href="mailto:shu7201@gmail.com">shu7201@gmail.com</a>
+  📧 Email: <a href="mailto:shu7201@gmail.com">sh7201@gmail.com</a>
 </p>
 
 ---
