@@ -2,8 +2,8 @@
 <!-- ================= PROFILE HEADER ================= -->
 <p align="center">
   <img
-    src="./assets/cv photo.png"
-    alt="Kazi Sazzad Hossain - Full Stack Web Developer"
+    src="./assets/profile-banner.png"
+    alt="Kazi Sazzad Hossain - Full Stack Developer"
     width="100%"
   />
 </p>
